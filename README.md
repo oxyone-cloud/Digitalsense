@@ -1,3 +1,7 @@
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 # Digitalsense
 **DigitalSense** is a smart innovation platform offering digital solutions for data management, IoT, and AI integration. It helps businesses optimize performance, automate processes, and unlock insights through intelligent cloud-based technologies tailored to modern enterprises.
 # 💡 Digital Sense – IoT & Data Monitoring (Flutter)

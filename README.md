@@ -44,3 +44,7 @@ Developed and maintained by **Benhamamouch Othman (Oxy-One)**
 ## 🪪 License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 SSCI SOLUTION OF COLD © 2026 – v2026.1
+
+
+## Déploiement GCP
+Projet géré sur Google Cloud Shell ().
